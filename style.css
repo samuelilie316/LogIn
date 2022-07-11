@@ -1,0 +1,36 @@
+#left{
+    top: 0;
+    left: 0;
+    background-color: gainsboro;
+    font-family: Roboto;  
+    position: absolute;
+    height: 100%;
+}
+.logo{
+    position: absolute;
+    margin-top: 15%;
+margin-left: 17%;
+margin-bottom: 30px;
+align-items:center;
+}
+.h1{
+    font-style: normal;
+    font-size: 40px;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: 60px;
+    color: #0F504E;
+    top:160px;
+    left: 100px;
+    position: relative;
+}
+#right{
+    
+    top: 20%;
+    position: absolute;
+    left: 50%;
+    
+}
+input, label {
+    display:block;
+}
